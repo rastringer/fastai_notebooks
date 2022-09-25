@@ -1,2 +1,2 @@
 # fastai_notebooks
-Notebooks from fastai course
+Notebooks from [fastai](https://course.fast.ai/) course
